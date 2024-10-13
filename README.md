@@ -1,0 +1,1 @@
+# blooket-mod-hack
