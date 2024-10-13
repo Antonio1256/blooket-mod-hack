@@ -1,4 +1,4 @@
- copy and paste it to the console go to inspect and go to console  and type allow pasting and copy this on the bottom 👇
+ copy and paste it to the console go to inspect and go to console  and type allow pasting and copy this on the bottom 👇 go to blooket first
 /**
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) 005Konz 2023
